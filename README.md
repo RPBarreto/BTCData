@@ -18,7 +18,7 @@ Os dados da rede e do BGP definimos a especificidade dos an ́uncios, o uso de p
 
 ## Bitnodes
 
-Os dados utilizados do API do BitNodes s ̃ao os disponibilizados as 22:03 horas do dia 31 de Agosto de 2022 e do dia 1 de Agosto de 2023 às 3:01 horas, onde os campos extra ́ıdos foram o IP do no e o AS ao qual ele pertence, o qual o ultimo e identificado pela sigla AS seguida pelo numero do mesmo.
+Os dados utilizados do API do BitNodes são os disponibilizados as 22:03 horas do dia 31 de Agosto de 2022 e do dia 1 de Agosto de 2023 às 3:01 horas, onde os campos extra ́ıdos foram o IP do no e o AS ao qual ele pertence, o qual o ultimo e identificado pela sigla AS seguida pelo numero do mesmo.
 
 ### Exemplo dos Dados
 
